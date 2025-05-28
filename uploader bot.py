@@ -37,7 +37,7 @@ def handle_start(message):
         except Exception as e:
             print(e)
     else:
-        bot.reply_to(message, "سلام! خوش آمدید به بات من.")
+        bot.reply_to(message, "welcom to my bot")
 
 
 
